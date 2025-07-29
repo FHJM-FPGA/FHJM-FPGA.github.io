@@ -11,7 +11,7 @@
     <h1>绯红姜梦FPGA</h1>
     <nav>
       <ul>
-        <li><a href="index.html">首页</a></li>
+        <li><a href="[index.html](https://blog.csdn.net/qq_56937808/article/details/120591604)">首页</a></li>
         <li><a href="pages/about.html">关于</a></li>
         <li><a href="posts/">博客</a></li>
         <li><a href="posts/">FPGA代做联系</a></li>
