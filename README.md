@@ -12,7 +12,7 @@
     <nav>
       <ul>
         <li><a href="index.html" 
-              class="text-red-500 hover:text-blue-700 transition-colors duration-200" 
+              class="!text-red-500 hover:text-blue-700 transition-colors duration-200" 
               aria-label="返回首页"
               title="返回首页"
               >首页</a></li>
