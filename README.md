@@ -16,7 +16,6 @@
           <a href="index.html" >首页</a></li>
         <li><a href="pages/about.html">关于</a></li>
         <li><a href="posts/">博客</a></li>
-        <li><a href="posts/">FPGA代做联系</a></li>
       </ul>
     </nav>
   </header>
