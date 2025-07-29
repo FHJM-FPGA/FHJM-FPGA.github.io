@@ -28,8 +28,17 @@
     </section>
   </main>
   <footer>
-    <p>&copy; 2025 Your Name. All rights reserved.</p>
-  </footer>
+  <p>&copy; 2025 绯红姜梦FPGA. 保留所有权利.</p>
+  <p>联系方式: <a href="mailto:contact@example.com">contact@example.com</a></p>
+  <nav>
+    <ul>
+      <li><a href="index.html">首页</a></li>
+      <li><a href="pages/about.html">关于</a></li>
+      <li><a href="posts/">博客</a></li>
+      <li><a href="pages/contact.html">FPGA代做联系</a></li>
+    </ul>
+  </nav>
+</footer>
   <script src="assets/js/main.js"></script>
 </body>
 </html>
