@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>绯红姜梦FPGA | Personal Website</title>
+  <title>绯红姜梦FPGA | 个人网站</title>
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
   <header>
-    <h1>Your Name</h1>
+    <h1>绯红姜梦FPGA</h1>
     <nav>
       <ul>
         <li><a href="index.html">首页</a></li>
