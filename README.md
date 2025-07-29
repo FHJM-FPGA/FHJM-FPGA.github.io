@@ -11,7 +11,11 @@
     <h1>绯红姜梦FPGA</h1>
     <nav>
       <ul>
-        <li><a href="index.html" style="color: #FF82F6;">首页</a></li>
+        <li><a href="index.html" 
+              class="text-blue-500 hover:text-blue-700 transition-colors duration-200" 
+              aria-label="返回首页"
+              title="返回首页"
+              >首页</a></li>
         <li><a href="pages/about.html">关于</a></li>
         <li><a href="posts/">博客</a></li>
         <li><a href="posts/">FPGA代做联系</a></li>
